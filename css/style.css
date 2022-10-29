@@ -8,12 +8,12 @@
   padding-top: 10px;
 }
 
-/* HxSの画像 */
-#hxs-image {
+/* Websiteの画像 */
+#web-image {
   background-size: cover;
   background-image: url(/images/image.png);
 }
-#hxs-name {
+#web-name {
   margin-top: 5%;
   margin-bottom: 5%;
 }
